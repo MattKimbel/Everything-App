@@ -85,6 +85,7 @@ The tests folder contains unit tests for each utility, ensuring they function as
 	•	test_DOMManipulator.js: Validates DOM manipulation functions, ensuring proper element handling and updates.
 	•	test_HTTPRequestHandler.js: Tests HTTP request handling for both successful and erroneous scenarios.
 	•	test_StorageHandler.js: Verifies local and session storage operations, including edge cases.
+ 
 ---
 
 ## Solidity
