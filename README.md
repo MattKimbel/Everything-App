@@ -2,7 +2,7 @@ Everything App Infrastructure
 
 Overview
 
-Welcome to the Everything App Infrastructure project! This repository is a versatile and extensible foundation for building robust applications, tailored to address modern development needs. It combines Python, JavaScript, and Solidity utilities and components, offering developers a comprehensive toolkit for both traditional and decentralized applications.
+Welcome to the Everything App Infrastructure project! This repository is a versatile and extensible foundation for building robust applications, tailored to address modern development needs. It combines Python, JavaScript, and Solidity utilities and components, offering a comprehensive toolkit for both traditional and decentralized applications.
 
 Key Features:
 	1.	Python Utilities: Simplify tasks like file management, data processing, and API handling.
@@ -13,24 +13,43 @@ This infrastructure is designed to save time, encourage scalability, and deliver
 
 ## Project Structure
 everything-app-infrastructure/
+
 ├── README.md
+
 ├── Python/
+
 │   ├── utilities/
+
 │   │   ├── file_manager.py  # File handling utilities
+
 │   │   ├── data_processor.py  # Data processing utilities
+
 │   │   ├── api_handler.py  # API integration utilities
+
 │   │   └── init.py  # For module importing
+
 │   └── tests/
+
 │       ├── test_file_manager.py  # Tests for file_manager
+
 │       ├── test_data_processor.py  # Tests for data_processor
+
 │       ├── test_api_handler.py  # Tests for api_handler
+
 │       └── init.py  # For module importing
+
 ├── JavaScript/
+
 │   ├── utilities/
+
 │   └── tests/
+
 ├── Solidity/
+
 │   ├── contracts/
+
 │   └── tests/
+
 └── LICENSE
 
 ---
