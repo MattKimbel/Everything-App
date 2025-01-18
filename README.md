@@ -114,5 +114,5 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 This repository is designed as a versatile and extensible infrastructure for building cutting-edge applications. By combining the power of Python, JavaScript, and Solidity, it provides a robust foundation for both traditional and decentralized application development. The modular structure ensures flexibility, while the included utilities and tests save time and reduce complexity in development workflows.
 
-Whether you’re building a modern web application or integrating decentralized features, this infrastructure empowers you to focus on delivering innovative solutions with minimal setup effort. It demonstrates a strong understanding of full-stack development principles and the ability to design reusable, scalable components for diverse use cases.
----
+Whether its a modern web application or integrating decentralized features, this infrastructure empowers with the focus on delivering innovative solutions with minimal setup effort. It demonstrates a strong understanding of my full-stack development capabilities and principles with the ability to design reusable, scalable components for diverse use cases.
+
